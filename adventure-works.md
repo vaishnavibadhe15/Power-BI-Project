@@ -2,7 +2,8 @@
 
 An interactive, multi-page Power BI report analysing sales, products, and customers for AdventureWorks, a fictional bicycle manufacturer. The report covers executive-level KPIs, geographic performance, product and customer deep-dives, and AI-powered visuals for finding what drives sales.
 
-![Executive Dashboard](images/01_exec_dashboard.png)
+
+<img width="1321" height="742" alt="image" src="https://github.com/user-attachments/assets/f1a26d24-3a9f-4b03-82d7-ad82b2b24a53" />
 
 ---
 
