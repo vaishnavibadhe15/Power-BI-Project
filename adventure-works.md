@@ -60,12 +60,22 @@ An interactive, multi-page Power BI report analysing sales, products, and custom
 
 ## Key Insights
 
-> Replace these with your real findings. Recruiters read this section first.
+1. **Strong growth with a step change in mid-2021.** Monthly revenue grew from about $0.6M in early 2020 to **$1.83M** in the latest month (+3.3% vs. the previous month). Monthly orders roughly tripled between Jul and Aug 2021 (about 500 to about 1,500) and stayed at the higher level, which points to a structural change in the business (for example a product launch or new channel) worth investigating.
+2. **Healthy profitability.** **$24.9M revenue** and **$10.5M profit** from **25.2K orders** is a profit margin of about **42%**, with an overall return rate of just **2.2%**.
+3. **Accessories drive order volume.** Accessories lead with 17.0K orders, ahead of Bikes (13.9K) and Clothing (7.0K). Within Accessories, Tires and Tubes is the largest subcategory (9,084 orders), and the Water Bottle (30 oz) is the single most-ordered product (3,983 orders).
+4. **Helmets have above-average returns.** Sport-100 Helmets show return rates of 3.33% (Red), 3.31% (Blue) and 2.68% (Black) against 2.2% overall, and Shorts are the most-returned product type.
+5. **Sales are concentrated in a few markets.** The United States and Australia are the largest markets on the map, followed by Canada, the UK, France and Germany.
+6. **Customers buy rarely, but revenue is not dependent on a few buyers.** 17.4K unique customers generate **$1,431 revenue per customer**, which works out to roughly 1.45 orders per customer. The top 100 customers contribute only about $615K (around 2.5% of total revenue), so revenue is spread widely.
+7. **Customer profile.** Average-income customers place the most orders (11.6K), followed by low-income (10.3K) and high-income (2.8K) customers. Professionals are the largest occupation group (7.9K orders), followed by Skilled Manual (6.0K) and Management (4.4K).
+8. **Product targets.** For the Water Bottle (30 oz), the latest month reached 404 orders vs. a 438 target (92%), $4,067 revenue vs. $4,292 (95%), and $2,546 profit vs. $2,687 (95%), so it is slightly below target on all three.
+9. **Key Influencers (exploratory).** Married customers are 1.62x and parents 1.59x more likely to be homeowners, and average retail price rises with product cost, as expected.
 
-1. **[Insight 1]**: e.g., "Bikes generate X% of total revenue, but Accessories have the highest profit margin."
-2. **[Insight 2]**: e.g., "Sales peaked in [month/year]; [region] grew X% year over year."
-3. **[Insight 3]**: e.g., "Top N% of customers account for X% of revenue."
-4. **[Recommendation]**: What would you suggest the business do based on this?
+### Recommendations
+
+- **Build repeat-purchase programs** (loyalty offers, follow-up emails, bundles), since most customers order only about once.
+- **Investigate Sport-100 Helmet returns** (quality, sizing, product description) to bring them down to the 2.2% average.
+- **Cross-sell accessories with bikes**, because accessories already have the highest order volume and profit margins are strong enough to support bundles.
+- **Explore growth in smaller markets** (UK, France, Germany, Canada) with targeted campaigns.
 
 ---
 
@@ -116,6 +126,7 @@ An interactive, multi-page Power BI report analysing sales, products, and custom
 ## Author
 
 **Vaishnavi Badhe**
+
 Data Analyst | Python, SQL, Power BI, Machine Learning
 Mumbai, India
 
