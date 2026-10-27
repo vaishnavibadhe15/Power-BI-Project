@@ -32,20 +32,28 @@ An interactive, multi-page Power BI report analysing sales, products, and custom
 
 ## 1.Exec Dashboard
 <img width="1292" height="732" alt="image" src="https://github.com/user-attachments/assets/a57f8a70-16cb-412f-8736-08bbce959e09" />
+
 ## 2.Map
 <img width="1193" height="691" alt="image" src="https://github.com/user-attachments/assets/0cd31efe-5017-46ed-ac91-a6ea76526f51" />
+
 ## 3.Product Detail
 <img width="1290" height="712" alt="image" src="https://github.com/user-attachments/assets/3785eb50-7345-4e52-9d63-137763a67429" />
+
 ## 4.Customer Detail
 <img width="1285" height="781" alt="image" src="https://github.com/user-attachments/assets/6c8dd14f-900b-4210-8c40-b076da929488" />
+
 ## 5.Category Tooltip
 <img width="530" height="278" alt="image" src="https://github.com/user-attachments/assets/5ab69129-f093-4b6a-9b5c-feea81d0e63b" />
+
 ## 6.Q&A
 <img width="1257" height="700" alt="image" src="https://github.com/user-attachments/assets/9b325136-b9be-4a49-a9c0-ecc919df4f0b" />
+
 ## 7.Decomposition Tree
 <img width="1268" height="708" alt="image" src="https://github.com/user-attachments/assets/b2beb9b1-b168-40d0-8de2-be26217c3b38" />
+
 ## 8.Key Influencers
 <img width="1258" height="662" alt="image" src="https://github.com/user-attachments/assets/8920d374-1339-4d52-a4dc-7e17ce3735c2" />
+
 
 
 ---
