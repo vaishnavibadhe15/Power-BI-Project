@@ -115,11 +115,7 @@ An interactive, multi-page Power BI report analysing sales, products, and custom
 
 ## Author
 
-**Javed Shaikh**
-Data Scientist / Mentor | Python, SQL, Power BI, Machine Learning
-Pune, India
+**Vaishnavi Badhe**
+Data Analyst | Python, SQL, Power BI, Machine Learning
+Mumbai, India
 
-- LinkedIn: [your-link]
-- GitHub: [your-link]
-- Email: [your-email]
-- Portfolio: [your-link, optional]
